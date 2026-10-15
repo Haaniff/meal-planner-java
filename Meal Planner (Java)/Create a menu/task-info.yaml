@@ -1,0 +1,23 @@
+type: edu
+files:
+  - name: src/mealplanner/Main.java
+    visible: true
+    learner_created: false
+  - name: build.gradle
+    visible: true
+    learner_created: false
+  - name: src/mealplanner/Meals.java
+    visible: true
+    learner_created: false
+  - name: test/MealPlannerTests.java
+    visible: true
+    learner_created: false
+  - name: src/mealplanner/Controller.java
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/projects/318/stages/1784/implement#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Tue, 08 Sep 2026 13:14:39 UTC"
+record: -1

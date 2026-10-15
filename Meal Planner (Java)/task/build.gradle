@@ -1,0 +1,17 @@
+apply plugin: 'hyperskill'
+
+subprojects {
+    apply plugin: 'application'
+    apply plugin: 'java'
+
+    repositories {
+        mavenCentral()
+    }
+}
+
+    project(':Meal_Planner__Java_-task') {
+        dependencies {
+            implementation 'org.postgresql:postgresql:42.2.27'
+        }
+    }
+
